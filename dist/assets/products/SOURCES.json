@@ -1,0 +1,81 @@
+{
+  "created": "2026-11-23",
+  "sources": [
+    {
+      "id": "feliway",
+      "missing": true
+    },
+    {
+      "id": "playground",
+      "missing": true
+    },
+    {
+      "id": "dreamies",
+      "url": "https://down-br.img.susercontent.com/file/sg-11134201-7ratn-mam1tvrj0uhdae",
+      "status": 200
+    },
+    {
+      "id": "kadi",
+      "url": "https://down-br.img.susercontent.com/file/sg-11134201-7rdxl-mdet8ey488yyfe",
+      "status": 200
+    },
+    {
+      "id": "pipicat",
+      "url": "https://down-br.img.susercontent.com/file/br-11134207-7qukw-lgw9wtr2aq9hfa",
+      "status": 200
+    },
+    {
+      "id": "golden",
+      "url": "https://down-br.img.susercontent.com/file/sg-11134201-7rdxy-lyp80d99dpwa3a",
+      "status": 200
+    },
+    {
+      "id": "viva-verde",
+      "url": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lrstqmo2reh959",
+      "status": 200
+    },
+    {
+      "id": "friskies",
+      "url": "https://down-br.img.susercontent.com/file/br-11134207-820l6-mqce0aqfsikhfd",
+      "status": 200
+    },
+    {
+      "id": "wanpy",
+      "url": "https://down-br.img.susercontent.com/file/br-11134207-820m8-mq3uabfg311d66",
+      "status": 200
+    },
+    {
+      "id": "fonte",
+      "url": "https://down-br.img.susercontent.com/file/sg-11134201-7rdw3-lzr2gcrb02gk95",
+      "status": 200
+    }
+  ],
+  "extra": [
+    [
+      "feliway",
+      "https://product.cdn.cevaws.com/var/storage/images/_aliases/feliway_packshot_product_full/feliway-2017/produtos/feliway-classic-refil/2212391-407-por-BR/FELIWAY-CLASSIC-Refil.png",
+      "png"
+    ],
+    [
+      "playground",
+      "https://www.songmics.it/cdn/shop/files/PCT182G01-1_1200x1200.jpg?v=1787024950",
+      "jpg"
+    ],
+    [
+      "kadi",
+      "https://achadosbr.redevix.com/img/produtos/kadi-areia-biodegradavel-graos-finos-4kg-milho-e-b0f22pgj8l.webp",
+      "webp"
+    ],
+    [
+      "golden",
+      "https://achadosbr.redevix.com/img/produtos/premier-pet-golden-special-racao-seca-para-gatos-b0chr2nckq.webp",
+      "webp"
+    ]
+  ],
+  "notes": [
+    "Kadi: foto do anúncio Shopee mostra grãos finos; imagem alternativa do outro site descartada por mostrar grãos grossos.",
+    "Friskies: foto de sabores do anúncio Shopee, não assume receita igual entre lojas.",
+    "Playground: foto do fabricante Feandrea para o modelo Amazon.",
+    "Links Mercado Livre preservados como fornecidos; inspeção automatizada recebeu 403."
+  ]
+}
